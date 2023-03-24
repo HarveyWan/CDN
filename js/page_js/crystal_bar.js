@@ -1,4 +1,4 @@
-/* common js */
+/* crystal_bar js */
 $(document).ready(function() {
 	
 	// get url param：code
